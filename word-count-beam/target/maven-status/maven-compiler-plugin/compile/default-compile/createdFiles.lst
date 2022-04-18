@@ -41,6 +41,7 @@ org\apache\beam\examples\subprocess\utils\FileUtils.class
 org\apache\beam\examples\common\ExampleBigQueryTableOptions$BigQueryTableFactory.class
 org\apache\beam\examples\complete\game\utils\WriteWindowedToBigQuery.class
 org\apache\beam\examples\subprocess\kernel\SubProcessIOFiles.class
+org\apache\beam\examples\MinimalPageRankTata.class
 org\apache\beam\examples\subprocess\utils\CallingSubProcessUtils.class
 org\apache\beam\examples\common\ExampleBigQueryTableOptions.class
 org\apache\beam\examples\common\ExampleOptions.class
@@ -67,6 +68,7 @@ org\apache\beam\examples\complete\game\LeaderBoard.class
 org\apache\beam\examples\complete\game\GameStats$CalculateSpammyUsers$1.class
 org\apache\beam\examples\complete\game\utils\WriteWindowedToBigQuery$BuildRowFn.class
 org\apache\beam\examples\complete\game\UserScore$Options.class
+org\apache\beam\examples\rankpage.class
 org\apache\beam\examples\subprocess\kernel\SubProcessCommandLineArgs.class
 org\apache\beam\examples\complete\game\GameStats.class
 org\apache\beam\examples\complete\game\utils\WriteToBigQuery.class
